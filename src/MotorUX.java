@@ -14,4 +14,11 @@ public class MotorUX {
 		System.out.println("My second test");
 	}
 
+	
+	@Test
+	public void thirdTest(){
+		
+		System.out.println("My third test");
+	}
+
 }
