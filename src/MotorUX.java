@@ -8,5 +8,10 @@ public class MotorUX {
 		System.out.println("My first test");
 	}
 	
+	@Test
+	public void secondTest(){
+		
+		System.out.println("My second test");
+	}
 
 }
